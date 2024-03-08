@@ -11,7 +11,7 @@
 
 <hr>
 
-|**QR CODE:** |**SCAN**|
+**QR CODE:** 
 
 
 
