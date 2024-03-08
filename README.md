@@ -3,5 +3,4 @@ sub link:
 
 QR CODE:
 
-
-![warp pysub](https://github.com/nameless4pub/warp-config/assets/125909629/a7f63bc6-1ba8-46b6-978a-b7773817e209)
+![warp pysub](https://github.com/nameless4pub/warp-config/assets/125909629/5f2498ef-7186-4c42-8f1e-afc8e198fc3c)
