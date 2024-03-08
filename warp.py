@@ -84,7 +84,6 @@ def warp_ip():
                 config_prefixes += config_prefix
     return config_prefixes, formatted_time
 
-
 configs = warp_ip()[0]
 with open('warp.json', 'w') as op:
     op.write(configs)
