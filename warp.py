@@ -76,17 +76,22 @@ def warp_ip():
         next(csv_file)
         for ips in csv_file:
             counter += 1
-            if counter == 5:
+            if counter == 3:
                 break
             else:
                 ip = ips.split(',')[0]
-                config_prefix = f'warp://{ip}?ifp=10-20\n'
+                config_prefix = f'warp://{ip}?ifp=10-20#🇮🇷 Warp &&detour=warp://{ip}?ifp=10-20#🇩🇪 Warp \n'
                 config_prefixes += config_prefix
     return config_prefixes, formatted_time
 
+title = "//profile-title: base64:" + base64.b64encode('Nameless4Pub'.encode('utf-8')).decode('utf-8') + "\n"
+update_interval = "//profile-update-interval: 1\n"
+sub_info = "//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531\n"
+profile_web = "//profile-web-page-url: https://github.com/nameless4pub\n"
+last_modified = "//last update on: " + warp_ip()[1] + "\n"
 configs = warp_ip()[0]
 with open('warp.json', 'w') as op:
-    op.write(configs)
+    op.write(title + update_interval + sub_info + profile_web  + last_modified + configs)
 
 os.remove(ip_txt_path)
 os.remove(result_path)
