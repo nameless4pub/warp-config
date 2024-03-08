@@ -1,8 +1,8 @@
-###
+
 - **Periodic Scan**: Automatically scans Cloudflare WARP IPs every 12 hours.
 - **Clean Config**: Creates multiple configurations with clean IPs for use in Hiddfy.
 
-___
+<hr>
 
 **sub link:**
 [https://raw.githubusercontent.com/nameless4pub/warp-config/main/export/warp.json](https://raw.githubusercontent.com/nameless4pub/warp-config/main/warp.json?token=GHSAT0AAAAAACOQGZK7W3NKUVA4OIUHVDTIZPLJSPQ)
