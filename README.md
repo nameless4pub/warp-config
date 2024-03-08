@@ -12,10 +12,12 @@
 | --- | --- |
 
 |**QR CODE:** |**SCAN**|
-|
-|
-|
-|
+
+
+
+
+
+
 | ![warp pysub](https://github.com/nameless4pub/warp-config/assets/125909629/5f2498ef-7186-4c42-8f1e-afc8e198fc3c) |
 
 <hr>
