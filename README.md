@@ -3,4 +3,5 @@ https://raw.githubusercontent.com/nameless4pub/warp-ip/main/warp.json
 
 QR CODE:
 
-![warp pysub](https://github.com/nameless4pub/warp-ip/assets/125909629/e3089ea8-c1ea-4e65-8a4e-dc0edf2eb5f8)
+
+![warp pysub](https://github.com/nameless4pub/warp-config/assets/125909629/a7f63bc6-1ba8-46b6-978a-b7773817e209)
