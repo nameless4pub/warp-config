@@ -1,2 +1,3 @@
-# Ignore the public directory
-/public/
+# Ignore all files except warp.json
+/*
+!warp.json
