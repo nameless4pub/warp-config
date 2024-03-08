@@ -1,6 +1,7 @@
+| روش | توضیحات |
 | --- | --- |
-| - **Periodic Scan**: Automatically scans Cloudflare WARP IPs every 12 hours. |
-| - **Clean Config**: Creates multiple configurations with clean IPs for use in Hiddfy.|
+| - **Periodic Scan**: | Automatically scans Cloudflare WARP IPs every 12 hours. |
+| - **Clean Config**: | Creates multiple configurations with clean IPs for use in Hiddfy.|
 
 <hr>
 
