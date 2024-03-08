@@ -92,7 +92,7 @@ sub_info = "//subscription-userinfo: upload=0; download=0; total=107374182400000
 profile_web = "//profile-web-page-url: https://github.com/nameless4pub\n"
 last_modified = "//last update on: " + warp_ip()[1] + "\n"
 configs = warp_ip()[0]
-with open('warp.json', 'w') as op:
+with open('export/warp.json', 'w') as op:
     op.write(f"{title}{update_interval}{sub_info}{profile_web}{last_modified}{configs}")
 
 os.remove(ip_txt_path)
