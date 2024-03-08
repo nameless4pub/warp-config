@@ -5,10 +5,10 @@
 
 <hr>
 
-|**sub link:** |**COPY**|
+|**COPY** |**sub link:**|
 | --- | --- |
 ```
-| https://raw.githubusercontent.com/nameless4pub/warp-config/main/warp.json?token=GHSAT0AAAAAACOQGZK7W3NKUVA4OIUHVDTIZPLJSPQ |
+https://raw.githubusercontent.com/nameless4pub/warp-config/main/warp.json?token=GHSAT0AAAAAACOQGZK7W3NKUVA4OIUHVDTIZPLJSPQ
 ```
 <hr>
 
