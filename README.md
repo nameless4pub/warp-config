@@ -16,6 +16,6 @@
 
 
                             
-                             ![warp pysub](https://github.com/nameless4pub/warp-config/assets/125909629/1f8bcc3c-884b-45e9-91c0-b18eb216d904)
+![warp pysub](https://github.com/nameless4pub/warp-config/assets/125909629/1f8bcc3c-884b-45e9-91c0-b18eb216d904)
 
 
