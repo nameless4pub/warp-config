@@ -81,8 +81,8 @@ def warp_ip():
         ip2 = next(csv_file).split(',')[0]
         ip3 = next(csv_file).split(',')[0]
         ip4 = next(csv_file).split(',')[0]
-        config_prefix1 = f'warp://{ip1}?ifp=10-20&ifps=40-100&ifpd=10-20#🇮🇷 Warp-Warp&&detour=warp://{ip2}?ifp=10-20&ifps=40-100&ifpd=10-20#🇩🇪 Warp'
-        config_prefix2 = f'warp://{ip3}?ifp=10-20&ifps=40-100&ifpd=10-20#🇮🇷 Warp-Warp&&detour=warp://{ip4}?ifp=10-20&ifps=40-100&ifpd=10-20#🇩🇪 Warp'
+        config_prefix1 = f'warp://{ip1}?ifp=10-20&ifps=40-100&ifpd=10-20#🇮🇷 Warp&&detour=warp://{ip2}?ifp=10-20&ifps=40-100&ifpd=10-20#🇩🇪 Warp'
+        config_prefix2 = f'warp://{ip3}?ifp=10-20&ifps=40-100&ifpd=10-20#🇮🇷 Warp&&detour=warp://{ip4}?ifp=10-20&ifps=40-100&ifpd=10-20#🇩🇪 Warp'
         config_prefixes += config_prefix1 + '\n' + config_prefix2
     return config_prefixes, formatted_time
 
