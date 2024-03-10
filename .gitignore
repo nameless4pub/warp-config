@@ -1,2 +1,2 @@
-# Ignore the public directory
-/public/
+.github
+warp.py
