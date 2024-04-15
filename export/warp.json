@@ -2,6 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //profile-web-page-url: https://github.com/nameless4pub
-//last update on: 2024-04-15 03:17:57
-warp://188.114.99.103:4233?ifp=10-20&ifps=40-100&ifpd=10-20#🇮🇷 Warp&&detour=warp://188.114.99.87:988?ifp=10-20&ifps=40-100&ifpd=10-20#🇩🇪 Warp
-warp://162.159.195.27:3138?ifp=10-20&ifps=40-100&ifpd=10-20#🇮🇷 Warp&&detour=warp://162.159.195.207:891?ifp=10-20&ifps=40-100&ifpd=10-20#🇩🇪 Warp
+//last update on: 2024-04-15 12:23:22
+warp://188.114.98.161:934?ifp=10-20&ifps=40-100&ifpd=10-20#🇮🇷 Warp&&detour=warp://188.114.99.231:1070?ifp=10-20&ifps=40-100&ifpd=10-20#🇩🇪 Warp
+warp://188.114.96.200:2506?ifp=10-20&ifps=40-100&ifpd=10-20#🇮🇷 Warp&&detour=warp://188.114.97.91:880?ifp=10-20&ifps=40-100&ifpd=10-20#🇩🇪 Warp
